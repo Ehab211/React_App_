@@ -1,7 +1,7 @@
 # Getting Started
 
 1- First download node.js from [Downloads|Node.js](https://nodejs.org/en/download/).\
-2- Write in command line ==> npm install.\
+2- Write in command line from the same folder of project ==> `npm install` and wait to finish.\
 3- Write `npm start`
 
 ## Available Scripts
